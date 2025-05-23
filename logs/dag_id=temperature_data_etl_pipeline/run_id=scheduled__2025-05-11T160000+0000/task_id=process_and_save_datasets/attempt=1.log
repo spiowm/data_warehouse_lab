@@ -1,0 +1,30 @@
+{"timestamp":"2025-05-11T16:25:36.376502","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-11T16:25:36.377381","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/main_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T16:25:36.474767","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T16:25:36.487535","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-11T16:25:36.488436Z","level":"info","event":"Warning: Could not get 'processed_datasets_output_folder' Variable. Defaulting path. Error: Variable.get() got an unexpected keyword argument 'default_var'","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:36.489072Z","level":"info","event":"Base path for processed datasets: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:36.490051Z","level":"info","event":"DimDate Dataset URI: file:///opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:36.491598Z","level":"info","event":"DimCity Dataset URI: file:///opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:36.492315Z","level":"info","event":"FactMonthlyTemperatures Dataset URI: file:///opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:36.494723","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T16:25:36.554224Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:36.554743Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:36.555228Z","level":"info","event":"Current task name:process_and_save_datasets","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:36.555755Z","level":"info","event":"Dag name:temperature_data_etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:36.556147Z","level":"info","event":"Starting data transformation for DAG run on 2025-05-11 16:00:00+00:00...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:36.518021","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T16:25:36.554527","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-11T16:25:36.554853","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T16:25:36.569583","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T16:25:36.583028Z","level":"info","event":"Reading raw data from: /opt/airflow/dags/data/***","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:36.583672Z","level":"info","event":"Will save processed datasets to: /opt/airflow/dags/data/***","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:37.700239Z","level":"info","event":"Successfully read 463320 rows from CSV.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:26:34.976027Z","level":"info","event":"Saved 132 records to /opt/airflow/dags/data/***/dim_date.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:26:35.085483Z","level":"info","event":"Saved 3490 records to /opt/airflow/dags/data/***/dim_city.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:26:43.009953Z","level":"info","event":"Saved 463320 records to /opt/airflow/dags/data/***/fact_monthly_temperatures.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:26:43.010507Z","level":"info","event":"Data transformation and saving completed.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:26:43.198518","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-05-11T16:26:43.277693Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:26:43.278306Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:26:43.278703Z","level":"info","event":"Task operator:<Task(PythonOperator): process_and_save_datasets>","chan":"stdout","logger":"task"}

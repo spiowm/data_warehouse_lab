@@ -1,0 +1,552 @@
+{"timestamp":"2025-05-11T09:09:50.451980","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:09:50.465040","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:09:51.854319Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:09:51.855034Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:09:51.855382Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:10:22.104420","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:10:22.119848","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:10:22.568873Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:10:22.569283Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:10:22.569588Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:10:53.329044","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:10:53.343380","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:10:53.925758Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:10:53.926133Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:10:53.926391Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:11:24.359656","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:11:24.369804","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:11:24.647235Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:11:24.647641Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:11:24.648040Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:11:55.611669","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:11:55.623820","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:11:56.330958Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:11:56.331441Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:11:56.331696Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:12:27.045120","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:12:27.056364","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:12:27.300542Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:12:27.300810Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:12:27.300998Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:12:57.757910","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:12:57.771281","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:12:58.016735Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:12:58.017079Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:12:58.017325Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:13:28.505997","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:13:28.517744","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:13:28.768562Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:13:28.768853Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:13:28.769119Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:13:59.668069","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:13:59.678533","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:14:00.302266Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:14:00.302551Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:14:00.302769Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:14:30.661816","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:14:30.672238","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:14:30.910700Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:14:30.910966Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:14:30.911178Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:15:01.278305","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:15:01.290816","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:15:01.550228Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:15:01.550621Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:15:01.550885Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:15:32.386284","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:15:32.396535","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:15:32.637520Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:15:32.637774Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:15:32.638003Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:16:03.113379","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:16:03.127628","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:16:03.892264Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:16:03.892550Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:16:03.892793Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:16:34.347037","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:16:34.367863","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:16:34.830761Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:16:34.831175Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:16:34.831466Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:17:05.336899","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:17:05.357337","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:17:05.907957Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:17:05.908631Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:17:05.909099Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:17:36.706766","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:17:36.717372","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:17:36.984418Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:17:36.984751Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:17:36.985090Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:18:07.148544","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:18:07.159802","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:18:07.464916Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:18:07.465351Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:18:07.465645Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:18:37.602047","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:18:37.613503","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:18:37.882598Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:18:37.882972Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:18:37.883236Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:19:08.211555","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:19:08.222302","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:19:08.477318Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:19:08.477588Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:19:08.477811Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:19:39.100444","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:19:39.112950","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:19:39.465028Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:19:39.465341Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:19:39.465592Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:20:09.868002","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:20:09.878286","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:20:10.120687Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:20:10.121017Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:20:10.121240Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:20:40.417476","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:20:40.427992","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:20:40.664817Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:20:40.665101Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:20:40.665333Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:21:10.970449","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:21:10.980901","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:21:11.221408Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:21:11.221684Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:21:11.221941Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:21:41.330414","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:21:41.340697","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:21:41.584764Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:21:41.585043Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:21:41.585245Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:22:12.640815","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:22:12.652172","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:22:12.902719Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:22:12.903098Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:22:12.903372Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:22:43.343226","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:22:43.354166","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:22:43.596186Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:22:43.596449Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:22:43.596639Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:23:13.884813","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:23:13.895309","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:23:14.128418Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:23:14.128685Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:23:14.128966Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:23:44.461379","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:23:44.472587","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:23:44.734084Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:23:44.734503Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:23:44.734806Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:24:15.064778","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:24:15.076058","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:24:15.318639Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:24:15.319017Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:24:15.319349Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:24:46.083559","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:24:46.095263","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:24:46.358613Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:24:46.358955Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:24:46.359214Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:25:16.633150","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:25:16.643698","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:25:16.898077Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:25:16.898353Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:25:16.898604Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:25:47.251644","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:25:47.262280","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:25:47.496644Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:25:47.496968Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:25:47.497228Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:26:18.271221","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:26:18.281661","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:26:18.796400Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:26:18.796670Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:26:18.796918Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:26:49.646865","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:26:49.659864","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:26:49.934007Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:26:49.934261Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:26:49.934506Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:27:20.840210","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:27:20.858186","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:27:21.133595Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:27:21.133959Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:27:21.134159Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:27:51.831481","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:27:51.841594","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:27:52.081055Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:27:52.081346Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:27:52.081612Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:28:23.017361","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:28:23.027271","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:28:23.257277Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:28:23.257576Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:28:23.257811Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:28:53.700716","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:28:53.710847","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:28:53.947816Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:28:53.948050Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:28:53.948314Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:29:24.183061","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:29:24.193885","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:29:24.443327Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:29:24.443607Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:29:24.443839Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:29:55.257522","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:29:55.270849","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:29:55.585960Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:29:55.586211Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:29:55.586408Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:30:26.232639","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:30:26.243713","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:30:26.495884Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:30:26.496176Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:30:26.496395Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:30:57.475496","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:30:57.486503","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:30:57.746977Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:30:57.747234Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:30:57.747452Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:31:28.468372","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:31:28.479783","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:31:28.718461Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:31:28.718687Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:31:28.718887Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:31:59.569896","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:31:59.580621","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:31:59.826141Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:31:59.826517Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:31:59.826827Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:32:30.855449","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:32:30.868665","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:32:31.133011Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:32:31.133273Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:32:31.133519Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:33:02.156538","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:33:02.166788","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:33:02.424981Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:33:02.425265Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:33:02.425502Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:33:33.082578","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:33:33.093146","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:33:33.341423Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:33:33.341670Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:33:33.341888Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:34:04.022568","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:34:04.033869","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:34:04.280259Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:34:04.280499Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:34:04.280692Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:34:34.615887","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:34:34.626483","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:34:34.858825Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:34:34.859074Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:34:34.859275Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:35:05.729237","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:35:05.739292","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:35:05.976196Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:35:05.976465Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:35:05.976690Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:35:36.921613","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:35:36.932452","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:35:37.177103Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:35:37.177355Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:35:37.177597Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:36:08.104695","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:36:08.113663","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:36:08.353304Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:36:08.353595Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:36:08.353793Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:36:39.358588","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:36:39.368600","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:36:39.611109Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:36:39.611385Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:36:39.611691Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:37:09.943443","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:37:09.954001","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:37:10.227978Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:37:10.228263Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:37:10.228501Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:37:41.176677","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:37:41.187589","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:37:41.466706Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:37:41.466979Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:37:41.467208Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:38:11.631338","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:38:11.642434","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:38:11.883204Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:38:11.883463Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:38:11.883685Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:38:42.747909","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:38:42.758543","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:38:43.006850Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:38:43.007148Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:38:43.007352Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:39:13.969754","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:39:13.980223","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:39:14.259630Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:39:14.259905Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:39:14.260163Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:39:44.916462","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:39:44.927125","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:39:45.177907Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:39:45.178163Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:39:45.178367Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:40:15.874680","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:40:15.885116","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:40:16.123330Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:40:16.123583Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:40:16.123789Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:40:46.566682","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:40:46.577420","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:40:46.814532Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:40:46.814841Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:40:46.815090Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:41:17.529471","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:41:17.540634","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:41:17.780683Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:41:17.780940Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:41:17.781141Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:41:48.391967","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:41:48.402233","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:41:48.649196Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:41:48.649427Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:41:48.649613Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:42:19.372277","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:42:19.382745","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:42:19.622326Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:42:19.622607Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:42:19.622862Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:42:50.022764","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:42:50.037392","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:42:50.391351Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:42:50.391721Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:42:50.392107Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:43:20.904382","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:43:20.916065","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:43:21.195616Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:43:21.195936Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:43:21.196153Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:43:52.251658","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:43:52.262475","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:43:52.526449Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:43:52.526733Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:43:52.526933Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:44:23.143302","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:44:23.155162","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:44:23.405762Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:44:23.406045Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:44:23.406247Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:44:53.897142","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:44:53.907178","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:44:54.139824Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:44:54.140192Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:44:54.140542Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:45:25.074249","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:45:25.089213","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:45:25.405063Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:45:25.405386Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:45:25.405651Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:45:56.199092","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:45:56.209505","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:45:56.444017Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:45:56.444324Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:45:56.444546Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:46:27.393858","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:46:27.405750","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:46:27.671068Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:46:27.671403Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:46:27.671661Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:46:58.545889","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:46:58.556931","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:46:58.805630Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:46:58.805885Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:46:58.806141Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:47:29.121613","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:47:29.131961","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:47:29.376299Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:47:29.376579Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:47:29.376811Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:47:59.649798","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:47:59.661500","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:47:59.990952Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:47:59.991239Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:47:59.991461Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:48:30.539736","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:48:30.552545","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:48:30.907033Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:48:30.907299Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:48:30.907591Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:49:01.724697","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:49:01.738285","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:49:02.333654Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:49:02.333921Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:49:02.334108Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:49:33.014388","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:49:33.026405","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:49:33.269272Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:49:33.269524Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:49:33.269764Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:50:03.769500","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:50:03.779796","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:50:04.020527Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:50:04.020789Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:50:04.021027Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:50:34.241390","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:50:34.257129","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:50:34.522602Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:50:34.522826Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:50:34.523027Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:51:05.536184","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:51:05.547566","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:51:05.788675Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:51:05.788943Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:51:05.789178Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:51:36.069865","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:51:36.081088","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:51:36.647062Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:51:36.647290Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:51:36.647487Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:52:06.956758","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:52:06.966734","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:52:07.199247Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:52:07.199517Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:52:07.199768Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:52:37.468632","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:52:37.479782","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:52:37.720202Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:52:37.720443Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:52:37.720650Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:53:08.629881","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:53:08.643404","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:53:08.960924Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:53:08.961175Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:53:08.961417Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:53:39.206448","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:53:39.217186","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:53:39.962540Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:53:39.962784Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:53:39.962966Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:54:10.425006","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:54:10.435608","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:54:10.696273Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:54:10.696515Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:54:10.696769Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:54:41.037388","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:54:41.050063","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:54:41.295674Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:54:41.295974Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:54:41.296213Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:55:12.292128","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:55:12.362994","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:55:12.860521Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:55:12.861002Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:55:12.861272Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:55:43.027573","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:55:43.037605","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:55:43.664155Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:55:43.664964Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:55:43.665255Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:56:14.274178","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:56:14.285310","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:56:14.548827Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:56:14.549097Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:56:14.549325Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:56:44.939704","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:56:44.950175","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:56:45.183849Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:56:45.184102Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:56:45.184436Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:57:15.667936","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:57:15.680120","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:57:15.968206Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:57:15.968478Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:57:15.968736Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:57:46.816306","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:57:46.827271","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:57:47.062155Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:57:47.062455Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:57:47.062669Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:58:17.613038","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:58:17.624066","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:58:17.886069Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:58:17.886292Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:58:17.886495Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:58:48.852415","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:58:48.863129","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:58:49.100315Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:58:49.100548Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:58:49.100819Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:59:19.430608","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:59:19.440202","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:59:19.674806Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:59:19.675065Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:59:19.675264Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:59:50.044097","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T09:59:50.054412","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T09:59:50.304552Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:59:50.304852Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T09:59:50.305071Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T10:00:20.723130","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T10:00:20.734070","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T10:00:20.965836Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T10:00:20.966252Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T10:00:20.966517Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T10:00:51.741870","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T10:00:51.752436","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T10:00:51.987228Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T10:00:51.987443Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T10:00:51.987709Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T10:01:23.183391","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T10:01:23.217533","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T10:01:23.891811Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T10:01:23.892450Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T10:01:23.892899Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T10:29:32.060950","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T10:29:32.080548","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T10:29:33.363929Z","level":"info","event":"DimDate URI: /opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T10:29:33.364474Z","level":"info","event":"DimCity URI: /opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T10:29:33.364866Z","level":"info","event":"FactMonthlyTemperatures URI: /opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-11T11:56:58.627033","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T11:56:58.637047","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T11:57:29.811626","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T11:57:59.947007","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T11:59:01.645452","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T11:59:32.534925","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:00:03.394719","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:01:04.581913","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:01:34.877224","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:02:35.600096","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:03:40.451563","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:03:40.465021","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T12:04:11.716691","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:04:42.065615","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:05:42.413073","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:06:12.674046","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:06:42.842151","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:07:13.025191","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:08:44.153452","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:09:14.900593","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:09:45.703781","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:10:15.884991","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:10:15.895453","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T12:10:47.029412","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:11:47.975353","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:12:49.108801","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:13:19.837613","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:13:50.443402","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:15:21.595867","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:15:52.480924","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:16:18.267814","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:16:19.034407","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:16:23.432478","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:16:24.709471","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:16:25.780769","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:16:27.102624","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:16:49.237596","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:16:49.700896","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:16:55.293763","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:16:55.871261","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:16:56.540281","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T12:16:57.903172","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}

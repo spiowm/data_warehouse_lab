@@ -1,0 +1,21 @@
+{"timestamp":"2025-05-15T10:09:48.345030","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-15T10:09:48.345663","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/main_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:09:48.400146","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:48.416174","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:09:48.418072","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:48.428640Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/***","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:48.433470","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:49.534996Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:49.535417Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:49.535701Z","level":"info","event":"Current task name:wait_for_raw_data_file","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:49.535960Z","level":"info","event":"Dag name:temperature_data_etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:48.448914","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:49.535256","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:09:49.535414","level":"info","event":"Poking for file /opt/airflow/dags/data/***","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2025-05-15T10:09:49.539139","level":"info","event":"Found File /opt/airflow/dags/data/*** last modified: 20250511161730","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2025-05-15T10:09:49.539297","level":"info","event":"Success criteria met. Exiting.","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2025-05-15T10:09:49.539403","level":"info","event":"Poking for file /opt/airflow/dags/data/***","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2025-05-15T10:09:49.543374","level":"info","event":"Found File /opt/airflow/dags/data/*** last modified: 20250511161730","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2025-05-15T10:09:49.579381Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:49.579826Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:49.580097Z","level":"info","event":"Task operator:<Task(FileSensor): wait_for_raw_data_file>","chan":"stdout","logger":"task"}

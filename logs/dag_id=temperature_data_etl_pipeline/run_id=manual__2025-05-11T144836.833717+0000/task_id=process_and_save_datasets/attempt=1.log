@@ -1,0 +1,24 @@
+{"timestamp":"2025-05-11T14:48:38.902066","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-11T14:48:38.902646","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/main_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T14:48:38.955515","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T14:48:38.966010","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-11T14:48:38.968086","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T14:48:38.977589Z","level":"info","event":"Base path for processed datasets: /opt/airflow/dags/data/***","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T14:48:38.978166Z","level":"info","event":"DimDate Dataset URI: file:///opt/airflow/dags/data/***/dim_date.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T14:48:38.978505Z","level":"info","event":"DimCity Dataset URI: file:///opt/airflow/dags/data/***/dim_city.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T14:48:38.978775Z","level":"info","event":"FactMonthlyTemperatures Dataset URI: file:///opt/airflow/dags/data/***/fact_monthly_temperatures.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T14:48:38.981656","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T14:48:39.023160Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T14:48:39.023647Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T14:48:39.024044Z","level":"info","event":"Current task name:process_and_save_datasets","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T14:48:39.024446Z","level":"info","event":"Dag name:temperature_data_etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T14:48:39.024816Z","level":"info","event":"Starting data transformation for DAG run on 2025-05-11 14:48:35.480000+00:00...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T14:48:38.996530","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T14:48:39.023481","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-11T14:48:39.024084","level":"warning","event":"/home/airflow/.local/lib/python3.12/site-packages/airflow/models/variable.py:147: DeprecationWarning: Using Variable.get from `airflow.models` is deprecated.Please use `from airflow.sdk import Variable` instead\n  warnings.warn(\n","logger":"py.warnings"}
+{"timestamp":"2025-05-11T14:48:39.024398","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T14:48:39.035265","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T14:48:39.043692Z","level":"info","event":"Reading raw data from: /opt/airflow/dags/data/***","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T14:48:39.044175Z","level":"info","event":"Will save processed datasets to: /opt/airflow/dags/data/***","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T14:49:03.836892Z","level":"info","event":"Successfully read 8599212 rows from CSV.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T14:55:07.586222Z","level":"critical","event":"Process terminated by signal. For more information, see https://airflow.apache.org/docs/apache-airflow/stable/troubleshooting.html#TaskRunner-killed","signal":-9,"signal_name":"SIGKILL","logger":"task"}

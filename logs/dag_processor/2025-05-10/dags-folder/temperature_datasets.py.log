@@ -1,0 +1,66 @@
+{"timestamp":"2025-05-10T20:10:03.687437","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:10:34.018942","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:10:59.676486","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:11:30.451243","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:12:29.076430","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:12:59.566278","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:13:30.402986","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:14:32.191788","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:15:07.652542","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:16:38.888063","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:17:09.170709","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:17:39.774842","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:18:10.657136","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:19:12.708675","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:19:43.037227","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:20:13.730593","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:20:44.168645","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:21:15.876875","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:21:46.408826","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:22:16.867329","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:22:52.746748","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:22:52.772326","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-10T20:23:24.531898","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:23:59.218993","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:24:29.741783","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:25:00.246669","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:26:01.624984","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:26:37.123635","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:26:37.144335","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-10T20:27:08.414745","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:27:38.865849","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:28:09.712919","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:29:15.285505","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:29:15.305464","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-10T20:29:46.031440","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:30:22.068497","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:30:52.911335","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:31:23.127107","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:31:53.989265","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:32:24.783103","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:32:55.701901","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:33:26.580094","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:33:56.884594","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:34:27.552267","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:34:27.573653","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-10T20:35:03.222796","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:35:03.244314","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-10T20:35:33.913952","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:36:04.205587","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:37:05.029791","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:37:05.051848","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-10T20:37:36.403087","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:38:06.752161","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:38:37.184941","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:39:07.805269","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:39:42.691967","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:39:42.713764","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-10T20:40:13.708926","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:40:44.108150","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:41:14.370371","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:41:50.185060","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:41:50.201984","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-10T20:42:21.216291","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:42:51.433457","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-10T20:42:51.454569","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-10T20:43:22.142181","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_datasets.py","logger":"airflow.models.dagbag.DagBag"}

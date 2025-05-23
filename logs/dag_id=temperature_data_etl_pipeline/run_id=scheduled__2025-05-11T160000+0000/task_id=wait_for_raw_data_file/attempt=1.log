@@ -1,0 +1,24 @@
+{"timestamp":"2025-05-11T16:25:35.015305","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-11T16:25:35.016358","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/main_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-11T16:25:35.072698","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T16:25:35.086211","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-11T16:25:35.086910Z","level":"info","event":"Warning: Could not get 'processed_datasets_output_folder' Variable. Defaulting path. Error: Variable.get() got an unexpected keyword argument 'default_var'","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:35.087346Z","level":"info","event":"Base path for processed datasets: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:35.087712Z","level":"info","event":"DimDate Dataset URI: file:///opt/airflow/dags/data/processed_datasets/dim_date.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:35.088145Z","level":"info","event":"DimCity Dataset URI: file:///opt/airflow/dags/data/processed_datasets/dim_city.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:35.088515Z","level":"info","event":"FactMonthlyTemperatures Dataset URI: file:///opt/airflow/dags/data/processed_datasets/fact_monthly_temperatures.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:35.091893","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T16:25:35.169171Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:35.169678Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:35.170043Z","level":"info","event":"Current task name:wait_for_raw_data_file","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:35.170381Z","level":"info","event":"Dag name:temperature_data_etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:35.113670","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-11T16:25:35.169550","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-11T16:25:35.169834","level":"info","event":"Poking for file /opt/airflow/dags/data/***","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2025-05-11T16:25:35.174853","level":"info","event":"Found File /opt/airflow/dags/data/*** last modified: 20250511161730","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2025-05-11T16:25:35.175021","level":"info","event":"Success criteria met. Exiting.","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2025-05-11T16:25:35.175170","level":"info","event":"Poking for file /opt/airflow/dags/data/***","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2025-05-11T16:25:35.179791","level":"info","event":"Found File /opt/airflow/dags/data/*** last modified: 20250511161730","logger":"airflow.task.operators.airflow.providers.standard.sensors.filesystem.FileSensor"}
+{"timestamp":"2025-05-11T16:25:35.213735Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:35.214164Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-11T16:25:35.214568Z","level":"info","event":"Task operator:<Task(FileSensor): wait_for_raw_data_file>","chan":"stdout","logger":"task"}

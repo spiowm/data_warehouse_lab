@@ -1,0 +1,27 @@
+{"timestamp":"2025-05-15T10:09:50.884204","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-15T10:09:50.884896","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/main_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:09:50.943707","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:50.959516","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:09:50.961687","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:50.978078Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/***","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:50.988907","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:51.032073Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:51.032558Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:51.032829Z","level":"info","event":"Current task name:process_and_save_datasets","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:51.033060Z","level":"info","event":"Dag name:temperature_data_etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:51.033358Z","level":"info","event":"Починаємо трансформацію даних для запуску DAG на 2025-05-15 10:00:00+00:00...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:51.007268","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:51.032419","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:09:51.033771","level":"warning","event":"/home/airflow/.local/lib/python3.12/site-packages/airflow/models/variable.py:147: DeprecationWarning: Using Variable.get from `airflow.models` is deprecated.Please use `from airflow.sdk import Variable` instead\n  warnings.warn(\n","logger":"py.warnings"}
+{"timestamp":"2025-05-15T10:09:51.034023","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:51.042378Z","level":"info","event":"Читаємо вхідні дані з: /opt/airflow/dags/data/***","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:51.042671Z","level":"info","event":"Зберігатимемо оброблені дані у: /opt/airflow/dags/data/***","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:09:51.684336Z","level":"info","event":"Успішно прочитано 463320 рядків з CSV.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:10:31.733833Z","level":"info","event":"Збережено 132 записів у /opt/airflow/dags/data/***/dim_date.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:10:31.779472Z","level":"info","event":"Збережено 3490 записів у /opt/airflow/dags/data/***/dim_city.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:10:35.210831Z","level":"info","event":"Збережено 463320 записів у /opt/airflow/dags/data/***/fact_monthly_temperatures.json","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:10:35.211133Z","level":"info","event":"Трансформацію та збереження даних завершено.","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:10:35.298012","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-05-15T10:10:35.350398Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:10:35.350754Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-15T10:10:35.350994Z","level":"info","event":"Task operator:<Task(PythonOperator): process_and_save_datasets>","chan":"stdout","logger":"task"}

@@ -1,0 +1,155 @@
+{"timestamp":"2025-05-15T10:08:54.554259","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:08:54.579272","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:08:57.233537","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:08:57.237130","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:08:57.930529Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:09:28.123718","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:09:28.140876","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:28.480218","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:09:28.481487","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:29.363798Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:09:59.497370","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:09:59.514872","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:59.843295","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:09:59.845457","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:09:59.900541Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:10:30.459298","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:10:30.475103","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:10:30.735504","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:10:30.736699","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:10:30.985594Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:11:01.154696","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:11:01.171103","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:11:01.588968","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:11:01.591299","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:11:02.375801Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:11:33.309909","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:11:33.325307","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:11:33.583447","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:11:33.584621","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:11:33.840804Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:12:04.629858","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:12:04.645441","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:12:04.915661","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:12:04.917165","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:12:05.185937Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:12:36.256253","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:12:36.274255","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:12:36.653495","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:12:36.656495","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:12:37.358358Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:13:08.280805","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:13:08.296942","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:13:08.604080","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:13:08.606346","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:13:08.851368Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:13:39.104913","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:13:39.117425","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:13:39.397787","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:13:39.398988","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:13:39.653647Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:14:10.457783","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:14:10.477580","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:14:10.789156","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:14:10.791691","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:14:11.828290Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:24:04.848195","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:24:04.875000","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:24:08.819296","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:24:08.824665","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:24:09.567355Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:24:40.051199","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:24:40.088099","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:24:41.818971","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:24:41.821099","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:24:41.854993Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:25:12.759202","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:25:12.786505","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:25:13.615085","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:25:13.617827","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:25:13.637725Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:25:44.143469","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:25:44.157821","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:25:44.502089","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:25:44.503582","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:25:44.847275Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:26:15.843364","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:26:15.859656","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:26:16.358045","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:26:16.361034","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:26:17.349062Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:26:48.374392","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:26:48.392090","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:26:49.134211","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:26:49.135744","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:26:49.156553Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:27:19.830980","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:27:19.854771","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:27:20.996647","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:27:20.997888","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:27:21.031100Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:27:51.342615","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:27:51.369354","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:27:51.862087","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:27:51.863194","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:27:52.836988Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:28:23.806890","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:28:23.825411","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:28:24.163602","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:28:24.164892","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:28:24.541187Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:28:55.368476","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:28:55.381489","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:28:55.998746","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:28:56.002253","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:28:56.031145Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:29:26.680293","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:29:26.697411","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:29:27.931749","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:29:27.932976","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:29:27.960593Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:29:58.703599","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:29:58.716379","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:29:59.011403","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:29:59.013066","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:29:59.292397Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:30:30.139617","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:30:30.153376","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:30:30.436783","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:30:30.438255","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:30:30.723501Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:31:01.624079","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:31:01.639209","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:31:02.852496","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:31:02.854272","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:31:02.878550Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:31:33.110572","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:31:33.137098","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:31:33.908639","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:31:33.910932","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:31:33.940652Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:32:04.708177","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:32:04.730449","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:32:05.571908","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:32:05.574287","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:32:05.598103Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:32:36.223057","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:32:36.241307","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:32:36.555502","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:32:36.557412","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:32:37.476346Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:33:08.054616","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:33:08.069352","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:33:08.650546","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:33:08.652728","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:33:08.688520Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:33:38.931636","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:33:38.946503","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:33:39.561713","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:33:39.564346","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:33:39.596372Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-05-15T10:34:10.173671","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/temperature_etl_dag/datasets_definition.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-15T10:34:10.186645","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:34:10.466130","level":"info","event":"Connection Retrieved 'temperature_data_folder_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-05-15T10:34:10.468302","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-05-15T10:34:11.378748Z","level":"info","event":"Базовий шлях для оброблених датасетів: /opt/airflow/dags/data/processed_datasets","chan":"stdout","logger":"processor"}

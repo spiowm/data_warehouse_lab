@@ -1,0 +1,39 @@
+@startuml
+skinparam linetype ortho
+
+entity "DimDate" {
+  + DateSK (PK) : INT
+  --
+  FullDate : DATE
+  Year : SMALLINT
+  Month : SMALLINT
+  MonthName : VARCHAR(20)
+  YearMonth : INT
+  Quarter : SMALLINT
+  Season : VARCHAR(20)
+  Decade : SMALLINT
+}
+
+entity "DimCity" {
+  + CitySK (PK) : INT
+  --
+  CityName : VARCHAR(100)
+  CountryName : VARCHAR(100)
+  Latitude_val : DECIMAL(9,6)
+  Longitude_val : DECIMAL(9,6)
+  ContinentName : VARCHAR(50)
+  Hemisphere : VARCHAR(10)
+}
+
+entity "FactMonthlyTemperatures" {
+  + DateSK (FK) : INT
+  + CitySK (FK) : INT
+  --
+  AverageTemperatureCelsius : DECIMAL(5,3)
+  AverageTemperatureUncertainty : DECIMAL(5,3)
+}
+
+DimDate ||--o{ FactMonthlyTemperatures
+DimCity ||--o{ FactMonthlyTemperatures
+
+@enduml
