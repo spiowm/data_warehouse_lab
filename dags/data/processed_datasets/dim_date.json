@@ -5,10 +5,10 @@
         "Year": 2000,
         "Month": 1,
         "MonthName": "January",
-        "DayOfMonth": 1,
+        "YearMonth": 200001,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 2,
@@ -16,10 +16,10 @@
         "Year": 2000,
         "Month": 2,
         "MonthName": "February",
-        "DayOfMonth": 1,
+        "YearMonth": 200002,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 3,
@@ -27,10 +27,10 @@
         "Year": 2000,
         "Month": 3,
         "MonthName": "March",
-        "DayOfMonth": 1,
+        "YearMonth": 200003,
         "Quarter": 1,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 4,
@@ -38,10 +38,10 @@
         "Year": 2000,
         "Month": 4,
         "MonthName": "April",
-        "DayOfMonth": 1,
+        "YearMonth": 200004,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 5,
@@ -49,10 +49,10 @@
         "Year": 2000,
         "Month": 5,
         "MonthName": "May",
-        "DayOfMonth": 1,
+        "YearMonth": 200005,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 6,
@@ -60,10 +60,10 @@
         "Year": 2000,
         "Month": 6,
         "MonthName": "June",
-        "DayOfMonth": 1,
+        "YearMonth": 200006,
         "Quarter": 2,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 7,
@@ -71,10 +71,10 @@
         "Year": 2000,
         "Month": 7,
         "MonthName": "July",
-        "DayOfMonth": 1,
+        "YearMonth": 200007,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 8,
@@ -82,10 +82,10 @@
         "Year": 2000,
         "Month": 8,
         "MonthName": "August",
-        "DayOfMonth": 1,
+        "YearMonth": 200008,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 9,
@@ -93,10 +93,10 @@
         "Year": 2000,
         "Month": 9,
         "MonthName": "September",
-        "DayOfMonth": 1,
+        "YearMonth": 200009,
         "Quarter": 3,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 10,
@@ -104,10 +104,10 @@
         "Year": 2000,
         "Month": 10,
         "MonthName": "October",
-        "DayOfMonth": 1,
+        "YearMonth": 200010,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 11,
@@ -115,10 +115,10 @@
         "Year": 2000,
         "Month": 11,
         "MonthName": "November",
-        "DayOfMonth": 1,
+        "YearMonth": 200011,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 12,
@@ -126,10 +126,10 @@
         "Year": 2000,
         "Month": 12,
         "MonthName": "December",
-        "DayOfMonth": 1,
+        "YearMonth": 200012,
         "Quarter": 4,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 13,
@@ -137,10 +137,10 @@
         "Year": 2001,
         "Month": 1,
         "MonthName": "January",
-        "DayOfMonth": 1,
+        "YearMonth": 200101,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 14,
@@ -148,10 +148,10 @@
         "Year": 2001,
         "Month": 2,
         "MonthName": "February",
-        "DayOfMonth": 1,
+        "YearMonth": 200102,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 15,
@@ -159,10 +159,10 @@
         "Year": 2001,
         "Month": 3,
         "MonthName": "March",
-        "DayOfMonth": 1,
+        "YearMonth": 200103,
         "Quarter": 1,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 16,
@@ -170,10 +170,10 @@
         "Year": 2001,
         "Month": 4,
         "MonthName": "April",
-        "DayOfMonth": 1,
+        "YearMonth": 200104,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 17,
@@ -181,10 +181,10 @@
         "Year": 2001,
         "Month": 5,
         "MonthName": "May",
-        "DayOfMonth": 1,
+        "YearMonth": 200105,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 18,
@@ -192,10 +192,10 @@
         "Year": 2001,
         "Month": 6,
         "MonthName": "June",
-        "DayOfMonth": 1,
+        "YearMonth": 200106,
         "Quarter": 2,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 19,
@@ -203,10 +203,10 @@
         "Year": 2001,
         "Month": 7,
         "MonthName": "July",
-        "DayOfMonth": 1,
+        "YearMonth": 200107,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 20,
@@ -214,10 +214,10 @@
         "Year": 2001,
         "Month": 8,
         "MonthName": "August",
-        "DayOfMonth": 1,
+        "YearMonth": 200108,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 21,
@@ -225,10 +225,10 @@
         "Year": 2001,
         "Month": 9,
         "MonthName": "September",
-        "DayOfMonth": 1,
+        "YearMonth": 200109,
         "Quarter": 3,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 22,
@@ -236,10 +236,10 @@
         "Year": 2001,
         "Month": 10,
         "MonthName": "October",
-        "DayOfMonth": 1,
+        "YearMonth": 200110,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 23,
@@ -247,10 +247,10 @@
         "Year": 2001,
         "Month": 11,
         "MonthName": "November",
-        "DayOfMonth": 1,
+        "YearMonth": 200111,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 24,
@@ -258,10 +258,10 @@
         "Year": 2001,
         "Month": 12,
         "MonthName": "December",
-        "DayOfMonth": 1,
+        "YearMonth": 200112,
         "Quarter": 4,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 25,
@@ -269,10 +269,10 @@
         "Year": 2002,
         "Month": 1,
         "MonthName": "January",
-        "DayOfMonth": 1,
+        "YearMonth": 200201,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 26,
@@ -280,10 +280,10 @@
         "Year": 2002,
         "Month": 2,
         "MonthName": "February",
-        "DayOfMonth": 1,
+        "YearMonth": 200202,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 27,
@@ -291,10 +291,10 @@
         "Year": 2002,
         "Month": 3,
         "MonthName": "March",
-        "DayOfMonth": 1,
+        "YearMonth": 200203,
         "Quarter": 1,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 28,
@@ -302,10 +302,10 @@
         "Year": 2002,
         "Month": 4,
         "MonthName": "April",
-        "DayOfMonth": 1,
+        "YearMonth": 200204,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 29,
@@ -313,10 +313,10 @@
         "Year": 2002,
         "Month": 5,
         "MonthName": "May",
-        "DayOfMonth": 1,
+        "YearMonth": 200205,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 30,
@@ -324,10 +324,10 @@
         "Year": 2002,
         "Month": 6,
         "MonthName": "June",
-        "DayOfMonth": 1,
+        "YearMonth": 200206,
         "Quarter": 2,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 31,
@@ -335,10 +335,10 @@
         "Year": 2002,
         "Month": 7,
         "MonthName": "July",
-        "DayOfMonth": 1,
+        "YearMonth": 200207,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 32,
@@ -346,10 +346,10 @@
         "Year": 2002,
         "Month": 8,
         "MonthName": "August",
-        "DayOfMonth": 1,
+        "YearMonth": 200208,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 33,
@@ -357,10 +357,10 @@
         "Year": 2002,
         "Month": 9,
         "MonthName": "September",
-        "DayOfMonth": 1,
+        "YearMonth": 200209,
         "Quarter": 3,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 34,
@@ -368,10 +368,10 @@
         "Year": 2002,
         "Month": 10,
         "MonthName": "October",
-        "DayOfMonth": 1,
+        "YearMonth": 200210,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 35,
@@ -379,10 +379,10 @@
         "Year": 2002,
         "Month": 11,
         "MonthName": "November",
-        "DayOfMonth": 1,
+        "YearMonth": 200211,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 36,
@@ -390,10 +390,10 @@
         "Year": 2002,
         "Month": 12,
         "MonthName": "December",
-        "DayOfMonth": 1,
+        "YearMonth": 200212,
         "Quarter": 4,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 37,
@@ -401,10 +401,10 @@
         "Year": 2003,
         "Month": 1,
         "MonthName": "January",
-        "DayOfMonth": 1,
+        "YearMonth": 200301,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 38,
@@ -412,10 +412,10 @@
         "Year": 2003,
         "Month": 2,
         "MonthName": "February",
-        "DayOfMonth": 1,
+        "YearMonth": 200302,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 39,
@@ -423,10 +423,10 @@
         "Year": 2003,
         "Month": 3,
         "MonthName": "March",
-        "DayOfMonth": 1,
+        "YearMonth": 200303,
         "Quarter": 1,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 40,
@@ -434,10 +434,10 @@
         "Year": 2003,
         "Month": 4,
         "MonthName": "April",
-        "DayOfMonth": 1,
+        "YearMonth": 200304,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 41,
@@ -445,10 +445,10 @@
         "Year": 2003,
         "Month": 5,
         "MonthName": "May",
-        "DayOfMonth": 1,
+        "YearMonth": 200305,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 42,
@@ -456,10 +456,10 @@
         "Year": 2003,
         "Month": 6,
         "MonthName": "June",
-        "DayOfMonth": 1,
+        "YearMonth": 200306,
         "Quarter": 2,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 43,
@@ -467,10 +467,10 @@
         "Year": 2003,
         "Month": 7,
         "MonthName": "July",
-        "DayOfMonth": 1,
+        "YearMonth": 200307,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 44,
@@ -478,10 +478,10 @@
         "Year": 2003,
         "Month": 8,
         "MonthName": "August",
-        "DayOfMonth": 1,
+        "YearMonth": 200308,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 45,
@@ -489,10 +489,10 @@
         "Year": 2003,
         "Month": 9,
         "MonthName": "September",
-        "DayOfMonth": 1,
+        "YearMonth": 200309,
         "Quarter": 3,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 46,
@@ -500,10 +500,10 @@
         "Year": 2003,
         "Month": 10,
         "MonthName": "October",
-        "DayOfMonth": 1,
+        "YearMonth": 200310,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 47,
@@ -511,10 +511,10 @@
         "Year": 2003,
         "Month": 11,
         "MonthName": "November",
-        "DayOfMonth": 1,
+        "YearMonth": 200311,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 48,
@@ -522,10 +522,10 @@
         "Year": 2003,
         "Month": 12,
         "MonthName": "December",
-        "DayOfMonth": 1,
+        "YearMonth": 200312,
         "Quarter": 4,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 49,
@@ -533,10 +533,10 @@
         "Year": 2004,
         "Month": 1,
         "MonthName": "January",
-        "DayOfMonth": 1,
+        "YearMonth": 200401,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 50,
@@ -544,10 +544,10 @@
         "Year": 2004,
         "Month": 2,
         "MonthName": "February",
-        "DayOfMonth": 1,
+        "YearMonth": 200402,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 51,
@@ -555,10 +555,10 @@
         "Year": 2004,
         "Month": 3,
         "MonthName": "March",
-        "DayOfMonth": 1,
+        "YearMonth": 200403,
         "Quarter": 1,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 52,
@@ -566,10 +566,10 @@
         "Year": 2004,
         "Month": 4,
         "MonthName": "April",
-        "DayOfMonth": 1,
+        "YearMonth": 200404,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 53,
@@ -577,10 +577,10 @@
         "Year": 2004,
         "Month": 5,
         "MonthName": "May",
-        "DayOfMonth": 1,
+        "YearMonth": 200405,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 54,
@@ -588,10 +588,10 @@
         "Year": 2004,
         "Month": 6,
         "MonthName": "June",
-        "DayOfMonth": 1,
+        "YearMonth": 200406,
         "Quarter": 2,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 55,
@@ -599,10 +599,10 @@
         "Year": 2004,
         "Month": 7,
         "MonthName": "July",
-        "DayOfMonth": 1,
+        "YearMonth": 200407,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 56,
@@ -610,10 +610,10 @@
         "Year": 2004,
         "Month": 8,
         "MonthName": "August",
-        "DayOfMonth": 1,
+        "YearMonth": 200408,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 57,
@@ -621,10 +621,10 @@
         "Year": 2004,
         "Month": 9,
         "MonthName": "September",
-        "DayOfMonth": 1,
+        "YearMonth": 200409,
         "Quarter": 3,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 58,
@@ -632,10 +632,10 @@
         "Year": 2004,
         "Month": 10,
         "MonthName": "October",
-        "DayOfMonth": 1,
+        "YearMonth": 200410,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 59,
@@ -643,10 +643,10 @@
         "Year": 2004,
         "Month": 11,
         "MonthName": "November",
-        "DayOfMonth": 1,
+        "YearMonth": 200411,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 60,
@@ -654,10 +654,10 @@
         "Year": 2004,
         "Month": 12,
         "MonthName": "December",
-        "DayOfMonth": 1,
+        "YearMonth": 200412,
         "Quarter": 4,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 61,
@@ -665,10 +665,10 @@
         "Year": 2005,
         "Month": 1,
         "MonthName": "January",
-        "DayOfMonth": 1,
+        "YearMonth": 200501,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 62,
@@ -676,10 +676,10 @@
         "Year": 2005,
         "Month": 2,
         "MonthName": "February",
-        "DayOfMonth": 1,
+        "YearMonth": 200502,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 63,
@@ -687,10 +687,10 @@
         "Year": 2005,
         "Month": 3,
         "MonthName": "March",
-        "DayOfMonth": 1,
+        "YearMonth": 200503,
         "Quarter": 1,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 64,
@@ -698,10 +698,10 @@
         "Year": 2005,
         "Month": 4,
         "MonthName": "April",
-        "DayOfMonth": 1,
+        "YearMonth": 200504,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 65,
@@ -709,10 +709,10 @@
         "Year": 2005,
         "Month": 5,
         "MonthName": "May",
-        "DayOfMonth": 1,
+        "YearMonth": 200505,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 66,
@@ -720,10 +720,10 @@
         "Year": 2005,
         "Month": 6,
         "MonthName": "June",
-        "DayOfMonth": 1,
+        "YearMonth": 200506,
         "Quarter": 2,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 67,
@@ -731,10 +731,10 @@
         "Year": 2005,
         "Month": 7,
         "MonthName": "July",
-        "DayOfMonth": 1,
+        "YearMonth": 200507,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 68,
@@ -742,10 +742,10 @@
         "Year": 2005,
         "Month": 8,
         "MonthName": "August",
-        "DayOfMonth": 1,
+        "YearMonth": 200508,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 69,
@@ -753,10 +753,10 @@
         "Year": 2005,
         "Month": 9,
         "MonthName": "September",
-        "DayOfMonth": 1,
+        "YearMonth": 200509,
         "Quarter": 3,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 70,
@@ -764,10 +764,10 @@
         "Year": 2005,
         "Month": 10,
         "MonthName": "October",
-        "DayOfMonth": 1,
+        "YearMonth": 200510,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 71,
@@ -775,10 +775,10 @@
         "Year": 2005,
         "Month": 11,
         "MonthName": "November",
-        "DayOfMonth": 1,
+        "YearMonth": 200511,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 72,
@@ -786,10 +786,10 @@
         "Year": 2005,
         "Month": 12,
         "MonthName": "December",
-        "DayOfMonth": 1,
+        "YearMonth": 200512,
         "Quarter": 4,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 73,
@@ -797,10 +797,10 @@
         "Year": 2006,
         "Month": 1,
         "MonthName": "January",
-        "DayOfMonth": 1,
+        "YearMonth": 200601,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 74,
@@ -808,10 +808,10 @@
         "Year": 2006,
         "Month": 2,
         "MonthName": "February",
-        "DayOfMonth": 1,
+        "YearMonth": 200602,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 75,
@@ -819,10 +819,10 @@
         "Year": 2006,
         "Month": 3,
         "MonthName": "March",
-        "DayOfMonth": 1,
+        "YearMonth": 200603,
         "Quarter": 1,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 76,
@@ -830,10 +830,10 @@
         "Year": 2006,
         "Month": 4,
         "MonthName": "April",
-        "DayOfMonth": 1,
+        "YearMonth": 200604,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 77,
@@ -841,10 +841,10 @@
         "Year": 2006,
         "Month": 5,
         "MonthName": "May",
-        "DayOfMonth": 1,
+        "YearMonth": 200605,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 78,
@@ -852,10 +852,10 @@
         "Year": 2006,
         "Month": 6,
         "MonthName": "June",
-        "DayOfMonth": 1,
+        "YearMonth": 200606,
         "Quarter": 2,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 79,
@@ -863,10 +863,10 @@
         "Year": 2006,
         "Month": 7,
         "MonthName": "July",
-        "DayOfMonth": 1,
+        "YearMonth": 200607,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 80,
@@ -874,10 +874,10 @@
         "Year": 2006,
         "Month": 8,
         "MonthName": "August",
-        "DayOfMonth": 1,
+        "YearMonth": 200608,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 81,
@@ -885,10 +885,10 @@
         "Year": 2006,
         "Month": 9,
         "MonthName": "September",
-        "DayOfMonth": 1,
+        "YearMonth": 200609,
         "Quarter": 3,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 82,
@@ -896,10 +896,10 @@
         "Year": 2006,
         "Month": 10,
         "MonthName": "October",
-        "DayOfMonth": 1,
+        "YearMonth": 200610,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 83,
@@ -907,10 +907,10 @@
         "Year": 2006,
         "Month": 11,
         "MonthName": "November",
-        "DayOfMonth": 1,
+        "YearMonth": 200611,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 84,
@@ -918,10 +918,10 @@
         "Year": 2006,
         "Month": 12,
         "MonthName": "December",
-        "DayOfMonth": 1,
+        "YearMonth": 200612,
         "Quarter": 4,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 85,
@@ -929,10 +929,10 @@
         "Year": 2007,
         "Month": 1,
         "MonthName": "January",
-        "DayOfMonth": 1,
+        "YearMonth": 200701,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 86,
@@ -940,10 +940,10 @@
         "Year": 2007,
         "Month": 2,
         "MonthName": "February",
-        "DayOfMonth": 1,
+        "YearMonth": 200702,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 87,
@@ -951,10 +951,10 @@
         "Year": 2007,
         "Month": 3,
         "MonthName": "March",
-        "DayOfMonth": 1,
+        "YearMonth": 200703,
         "Quarter": 1,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 88,
@@ -962,10 +962,10 @@
         "Year": 2007,
         "Month": 4,
         "MonthName": "April",
-        "DayOfMonth": 1,
+        "YearMonth": 200704,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 89,
@@ -973,10 +973,10 @@
         "Year": 2007,
         "Month": 5,
         "MonthName": "May",
-        "DayOfMonth": 1,
+        "YearMonth": 200705,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 90,
@@ -984,10 +984,10 @@
         "Year": 2007,
         "Month": 6,
         "MonthName": "June",
-        "DayOfMonth": 1,
+        "YearMonth": 200706,
         "Quarter": 2,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 91,
@@ -995,10 +995,10 @@
         "Year": 2007,
         "Month": 7,
         "MonthName": "July",
-        "DayOfMonth": 1,
+        "YearMonth": 200707,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 92,
@@ -1006,10 +1006,10 @@
         "Year": 2007,
         "Month": 8,
         "MonthName": "August",
-        "DayOfMonth": 1,
+        "YearMonth": 200708,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 93,
@@ -1017,10 +1017,10 @@
         "Year": 2007,
         "Month": 9,
         "MonthName": "September",
-        "DayOfMonth": 1,
+        "YearMonth": 200709,
         "Quarter": 3,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 94,
@@ -1028,10 +1028,10 @@
         "Year": 2007,
         "Month": 10,
         "MonthName": "October",
-        "DayOfMonth": 1,
+        "YearMonth": 200710,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 95,
@@ -1039,10 +1039,10 @@
         "Year": 2007,
         "Month": 11,
         "MonthName": "November",
-        "DayOfMonth": 1,
+        "YearMonth": 200711,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 96,
@@ -1050,10 +1050,10 @@
         "Year": 2007,
         "Month": 12,
         "MonthName": "December",
-        "DayOfMonth": 1,
+        "YearMonth": 200712,
         "Quarter": 4,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 97,
@@ -1061,10 +1061,10 @@
         "Year": 2008,
         "Month": 1,
         "MonthName": "January",
-        "DayOfMonth": 1,
+        "YearMonth": 200801,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 98,
@@ -1072,10 +1072,10 @@
         "Year": 2008,
         "Month": 2,
         "MonthName": "February",
-        "DayOfMonth": 1,
+        "YearMonth": 200802,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 99,
@@ -1083,10 +1083,10 @@
         "Year": 2008,
         "Month": 3,
         "MonthName": "March",
-        "DayOfMonth": 1,
+        "YearMonth": 200803,
         "Quarter": 1,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 100,
@@ -1094,10 +1094,10 @@
         "Year": 2008,
         "Month": 4,
         "MonthName": "April",
-        "DayOfMonth": 1,
+        "YearMonth": 200804,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 101,
@@ -1105,10 +1105,10 @@
         "Year": 2008,
         "Month": 5,
         "MonthName": "May",
-        "DayOfMonth": 1,
+        "YearMonth": 200805,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 102,
@@ -1116,10 +1116,10 @@
         "Year": 2008,
         "Month": 6,
         "MonthName": "June",
-        "DayOfMonth": 1,
+        "YearMonth": 200806,
         "Quarter": 2,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 103,
@@ -1127,10 +1127,10 @@
         "Year": 2008,
         "Month": 7,
         "MonthName": "July",
-        "DayOfMonth": 1,
+        "YearMonth": 200807,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 104,
@@ -1138,10 +1138,10 @@
         "Year": 2008,
         "Month": 8,
         "MonthName": "August",
-        "DayOfMonth": 1,
+        "YearMonth": 200808,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 105,
@@ -1149,10 +1149,10 @@
         "Year": 2008,
         "Month": 9,
         "MonthName": "September",
-        "DayOfMonth": 1,
+        "YearMonth": 200809,
         "Quarter": 3,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 106,
@@ -1160,10 +1160,10 @@
         "Year": 2008,
         "Month": 10,
         "MonthName": "October",
-        "DayOfMonth": 1,
+        "YearMonth": 200810,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 107,
@@ -1171,10 +1171,10 @@
         "Year": 2008,
         "Month": 11,
         "MonthName": "November",
-        "DayOfMonth": 1,
+        "YearMonth": 200811,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 108,
@@ -1182,10 +1182,10 @@
         "Year": 2008,
         "Month": 12,
         "MonthName": "December",
-        "DayOfMonth": 1,
+        "YearMonth": 200812,
         "Quarter": 4,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 109,
@@ -1193,10 +1193,10 @@
         "Year": 2009,
         "Month": 1,
         "MonthName": "January",
-        "DayOfMonth": 1,
+        "YearMonth": 200901,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 110,
@@ -1204,10 +1204,10 @@
         "Year": 2009,
         "Month": 2,
         "MonthName": "February",
-        "DayOfMonth": 1,
+        "YearMonth": 200902,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 111,
@@ -1215,10 +1215,10 @@
         "Year": 2009,
         "Month": 3,
         "MonthName": "March",
-        "DayOfMonth": 1,
+        "YearMonth": 200903,
         "Quarter": 1,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 112,
@@ -1226,10 +1226,10 @@
         "Year": 2009,
         "Month": 4,
         "MonthName": "April",
-        "DayOfMonth": 1,
+        "YearMonth": 200904,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 113,
@@ -1237,10 +1237,10 @@
         "Year": 2009,
         "Month": 5,
         "MonthName": "May",
-        "DayOfMonth": 1,
+        "YearMonth": 200905,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 114,
@@ -1248,10 +1248,10 @@
         "Year": 2009,
         "Month": 6,
         "MonthName": "June",
-        "DayOfMonth": 1,
+        "YearMonth": 200906,
         "Quarter": 2,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 115,
@@ -1259,10 +1259,10 @@
         "Year": 2009,
         "Month": 7,
         "MonthName": "July",
-        "DayOfMonth": 1,
+        "YearMonth": 200907,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 116,
@@ -1270,10 +1270,10 @@
         "Year": 2009,
         "Month": 8,
         "MonthName": "August",
-        "DayOfMonth": 1,
+        "YearMonth": 200908,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 117,
@@ -1281,10 +1281,10 @@
         "Year": 2009,
         "Month": 9,
         "MonthName": "September",
-        "DayOfMonth": 1,
+        "YearMonth": 200909,
         "Quarter": 3,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 118,
@@ -1292,10 +1292,10 @@
         "Year": 2009,
         "Month": 10,
         "MonthName": "October",
-        "DayOfMonth": 1,
+        "YearMonth": 200910,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 119,
@@ -1303,10 +1303,10 @@
         "Year": 2009,
         "Month": 11,
         "MonthName": "November",
-        "DayOfMonth": 1,
+        "YearMonth": 200911,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 120,
@@ -1314,10 +1314,10 @@
         "Year": 2009,
         "Month": 12,
         "MonthName": "December",
-        "DayOfMonth": 1,
+        "YearMonth": 200912,
         "Quarter": 4,
         "Season": "Winter",
-        "Decade": "2000s"
+        "Decade": 2000
     },
     {
         "DateSK": 121,
@@ -1325,10 +1325,10 @@
         "Year": 2010,
         "Month": 1,
         "MonthName": "January",
-        "DayOfMonth": 1,
+        "YearMonth": 201001,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2010s"
+        "Decade": 2010
     },
     {
         "DateSK": 122,
@@ -1336,10 +1336,10 @@
         "Year": 2010,
         "Month": 2,
         "MonthName": "February",
-        "DayOfMonth": 1,
+        "YearMonth": 201002,
         "Quarter": 1,
         "Season": "Winter",
-        "Decade": "2010s"
+        "Decade": 2010
     },
     {
         "DateSK": 123,
@@ -1347,10 +1347,10 @@
         "Year": 2010,
         "Month": 3,
         "MonthName": "March",
-        "DayOfMonth": 1,
+        "YearMonth": 201003,
         "Quarter": 1,
         "Season": "Spring",
-        "Decade": "2010s"
+        "Decade": 2010
     },
     {
         "DateSK": 124,
@@ -1358,10 +1358,10 @@
         "Year": 2010,
         "Month": 4,
         "MonthName": "April",
-        "DayOfMonth": 1,
+        "YearMonth": 201004,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2010s"
+        "Decade": 2010
     },
     {
         "DateSK": 125,
@@ -1369,10 +1369,10 @@
         "Year": 2010,
         "Month": 5,
         "MonthName": "May",
-        "DayOfMonth": 1,
+        "YearMonth": 201005,
         "Quarter": 2,
         "Season": "Spring",
-        "Decade": "2010s"
+        "Decade": 2010
     },
     {
         "DateSK": 126,
@@ -1380,10 +1380,10 @@
         "Year": 2010,
         "Month": 6,
         "MonthName": "June",
-        "DayOfMonth": 1,
+        "YearMonth": 201006,
         "Quarter": 2,
         "Season": "Summer",
-        "Decade": "2010s"
+        "Decade": 2010
     },
     {
         "DateSK": 127,
@@ -1391,10 +1391,10 @@
         "Year": 2010,
         "Month": 7,
         "MonthName": "July",
-        "DayOfMonth": 1,
+        "YearMonth": 201007,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2010s"
+        "Decade": 2010
     },
     {
         "DateSK": 128,
@@ -1402,10 +1402,10 @@
         "Year": 2010,
         "Month": 8,
         "MonthName": "August",
-        "DayOfMonth": 1,
+        "YearMonth": 201008,
         "Quarter": 3,
         "Season": "Summer",
-        "Decade": "2010s"
+        "Decade": 2010
     },
     {
         "DateSK": 129,
@@ -1413,10 +1413,10 @@
         "Year": 2010,
         "Month": 9,
         "MonthName": "September",
-        "DayOfMonth": 1,
+        "YearMonth": 201009,
         "Quarter": 3,
         "Season": "Autumn",
-        "Decade": "2010s"
+        "Decade": 2010
     },
     {
         "DateSK": 130,
@@ -1424,10 +1424,10 @@
         "Year": 2010,
         "Month": 10,
         "MonthName": "October",
-        "DayOfMonth": 1,
+        "YearMonth": 201010,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2010s"
+        "Decade": 2010
     },
     {
         "DateSK": 131,
@@ -1435,10 +1435,10 @@
         "Year": 2010,
         "Month": 11,
         "MonthName": "November",
-        "DayOfMonth": 1,
+        "YearMonth": 201011,
         "Quarter": 4,
         "Season": "Autumn",
-        "Decade": "2010s"
+        "Decade": 2010
     },
     {
         "DateSK": 132,
@@ -1446,9 +1446,9 @@
         "Year": 2010,
         "Month": 12,
         "MonthName": "December",
-        "DayOfMonth": 1,
+        "YearMonth": 201012,
         "Quarter": 4,
         "Season": "Winter",
-        "Decade": "2010s"
+        "Decade": 2010
     }
 ]
