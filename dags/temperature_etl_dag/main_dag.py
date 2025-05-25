@@ -7,7 +7,6 @@ from airflow.sdk import Variable
 from airflow.providers.standard.sensors.filesystem import FileSensor
 from airflow.providers.standard.operators.python import PythonOperator
 
-# Імпортуємо ALL_TEMPERATURE_DATASETS з файлу
 from temperature_etl_dag.datasets_definition import ALL_TEMPERATURE_DATASETS
 from temperature_etl_dag.processing import transform_and_save_data
 
@@ -21,15 +20,15 @@ default_args = {
 }
 
 with DAG(
-        dag_id="temperature_data_etl_strict_schema", # Новий ID для чіткості
+        dag_id="temperature_data_etl_strict_schema",
         default_args=default_args,
-        description="ETL для температурних даних згідно з ЧІТКО визначеною схемою.",
-        schedule="@hourly",
+        description="ETL для температурних даних згідно з визначеною схемою.",
+        schedule="@month",
         start_date=pendulum.datetime(2025, 1, 1, tz="UTC"),
         catchup=False,
         tags={'temperatures', 'etl', 'lab2_updated'},
         doc_md="""
-    ### Трубопровід обробки даних про температуру (Чітка Схема)
+    ###  обробка даних про температуру
 
     Цей DAG виконує наступні кроки:
     1. Очікує на наявність вхідного CSV файлу.
