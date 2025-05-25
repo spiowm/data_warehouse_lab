@@ -71,15 +71,15 @@ def transform_and_save_data(**context):
             year_val = date_val.year
             month_val = date_val.month
             dim_date_records.append({
-                'DateSK': next_date_sk,
-                'FullDate': full_date_str,
-                'Year': year_val,
-                'Month': month_val,
-                'MonthName': date_val.strftime('%B'),
-                'YearMonth': int(f"{year_val}{month_val:02d}"),
-                'Quarter': date_val.quarter,
-                'Season': get_season_en(month_val),
-                'Decade': (year_val // 10) * 10
+                'date_sk': next_date_sk,
+                'full_date': full_date_str,
+                'year': year_val,
+                'month': month_val,
+                'month_name': date_val.strftime('%B'),
+                'year_month': int(f"{year_val}{month_val:02d}"),
+                'quarter': date_val.quarter,
+                'season': get_season_en(month_val),
+                'decade': (year_val // 10) * 10
             })
             next_date_sk += 1
         current_date_sk = date_to_sk_map[full_date_str]
@@ -120,13 +120,13 @@ def transform_and_save_data(**context):
         if city_key not in city_to_sk_map:
             city_to_sk_map[city_key] = next_city_sk
             dim_city_records.append({
-                'CitySK': next_city_sk,
-                'CityName': city_name,
-                'CountryName': country_name,
-                'Latitude_val': lat_val_num,
-                'Longitude_val': lon_val_num,
-                'ContinentName': get_continent_name_basic(country_name),
-                'Hemisphere': get_hemisphere_en(lat_val_num) if lat_val_num is not None else "Unknown"
+                'city_sk': next_city_sk,
+                'city_name': city_name,
+                'country_name': country_name,
+                'latitude_val': lat_val_num,
+                'longitude_val': lon_val_num,
+                'continent_name': get_continent_name_basic(country_name),
+                'hemisphere': get_hemisphere_en(lat_val_num) if lat_val_num is not None else "Unknown"
             })
             next_city_sk += 1
         current_city_sk = city_to_sk_map[city_key]
@@ -150,10 +150,10 @@ def transform_and_save_data(**context):
 
         if avg_temp is not None:
             fact_temperatures_records.append({
-                'DateSK': current_date_sk,
-                'CitySK': current_city_sk,
-                'AverageTemperatureCelsius': avg_temp,
-                'AverageTemperatureUncertainty': avg_temp_unc
+                'date_sk': current_date_sk,
+                'city_sk': current_city_sk,
+                'average_temperature_celsius': avg_temp,
+                'average_temperature_uncertainty': avg_temp_unc
             })
 
     # 4. Збереження датасетів у JSON файли

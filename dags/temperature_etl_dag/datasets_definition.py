@@ -33,8 +33,8 @@ dim_date_dataset = Dataset(
     extra={
         'description': 'Таблиця вимірів для Дат.',
         'columns': [
-            'DateSK', 'FullDate', 'Year', 'Month', 'MonthName',
-            'YearMonth', 'Quarter', 'Season', 'Decade'
+            'date_sk', 'full_date', 'year', 'month', 'month_name',
+            'year_month', 'quarter', 'season', 'decade'
         ]
     }
 )
@@ -47,9 +47,9 @@ dim_city_dataset = Dataset(
     extra={
         'description': 'Таблиця вимірів для Міст.',
         'columns': [
-            'CitySK', 'CityName', 'CountryName',
-            'Latitude_val', 'Longitude_val',
-            'ContinentName', 'Hemisphere'
+            'city_sk', 'city_name', 'country_name',
+            'latitude_val', 'longitude_val',
+            'continent_name', 'hemisphere'
         ]
     }
 )
@@ -62,10 +62,10 @@ fact_temperatures_dataset = Dataset(
     extra={
         'description': 'Таблиця фактів для місячних температур.',
         'columns': [
-            'DateSK',
-            'CitySK',
-            'AverageTemperatureCelsius',
-            'AverageTemperatureUncertainty'
+            'date_sk',
+            'city_sk',
+            'average_temperature_celsius',
+            'average_temperature_uncertainty'
         ]
     }
 )

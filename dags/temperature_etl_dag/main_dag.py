@@ -25,7 +25,7 @@ with DAG(
         default_args=default_args,
         description="ETL для температурних даних згідно з ЧІТКО визначеною схемою.",
         schedule="@hourly",
-        start_date=pendulum.datetime(2023, 1, 1, tz="UTC"),
+        start_date=pendulum.datetime(2025, 1, 1, tz="UTC"),
         catchup=False,
         tags={'temperatures', 'etl', 'lab2_updated'},
         doc_md="""
